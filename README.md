@@ -176,13 +176,13 @@ cd server
 pipenv install && pipenv shell 
 ```
 
-You can run your Flask API on [`localhost:5555`](http://localhost:5555) by navigating to the `back-end` folder and run:
+You can run your Flask API on [`localhost:5555`](http://localhost:5555) by navigating to the `server` folder and run:
 
 ```sh
 python3 app.py
 ```
 
-You can run your React app on [`localhost:4000`](http://localhost:4000) using a separate terminal by navigating to the `front-end` folder and run:
+You can run your React app on [`localhost:4000`](http://localhost:4000) using a separate terminal by navigating to the `client` folder and run:
 
 
 
