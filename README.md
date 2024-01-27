@@ -196,4 +196,7 @@ You can run your React app on [`localhost:4000`](http://localhost:4000) using a 
  - Python
  - Flask
  - Terminal
+## Authors
+
+- [Steve Maina](https://github.com/swarui)
 
